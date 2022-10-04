@@ -6358,41 +6358,17 @@
     pointer-events:none;
     z-index:-1
     }
-    .connectionIcon-1iZ6F_[alt*=Twitch]+div:before{
-    background-color:rgba(145,70,255,.6)
-    }
-    .connectionIcon-1iZ6F_[alt*=Twitch]+div:after{
-    background-color:rgba(145,70,255,.5)
-    }
-    .connectionIcon-1iZ6F_[alt*=YouTube]+div:before{
-    background-color:rgba(255,0,0,.6)
-    }
-    .connectionIcon-1iZ6F_[alt*=YouTube]+div:after{
-    background-color:rgba(255,0,0,.5)
-    }
-    .connectionIcon-1iZ6F_[alt*="Battle.net"]+div:before{
-    background-color:rgba(5,102,176,.6)
-    }
-    .connectionIcon-1iZ6F_[alt*="Battle.net"]+div:after{
-    background-color:rgba(5,102,176,.5)
-    }
-    .connectionIcon-1iZ6F_[alt*=Steam]+div:before{
-    background-color:rgba(0,0,0,.6)
-    }
-    .connectionIcon-1iZ6F_[alt*=Steam]+div:after{
-    background-color:rgba(0,0,0,.5)
-    }
     .connectionIcon-1iZ6F_[alt*=Reddit]+div:before{
     background-color:rgba(255,69,0,.6)
     }
     .connectionIcon-1iZ6F_[alt*=Reddit]+div:after{
     background-color:rgba(255,69,0,.5)
     }
-    .connectionIcon-1iZ6F_[alt*=Facebook]+div:before{
-    background-color:rgba(24,119,242,.6)
+    .connectionIcon-1iZ6F_[alt*=Steam]+div:before{
+    background-color:rgba(0,0,0,.6)
     }
-    .connectionIcon-1iZ6F_[alt*=Facebook]+div:after{
-    background-color:rgba(24,119,242,.5)
+    .connectionIcon-1iZ6F_[alt*=Steam]+div:after{
+    background-color:rgba(0,0,0,.5)
     }
     .connectionIcon-1iZ6F_[alt*=Twitter]+div:before{
     background-color:rgba(0,158,247,.6)
@@ -6412,13 +6388,37 @@
     .connectionIcon-1iZ6F_[alt*="Xbox Live"]+div:after{
     background-color:rgba(16,124,16,.5)
     }
+    .connectionIcon-1iZ6F_[alt*="Battle.net"]+div:before{
+    background-color:rgba(5,102,176,.6)
+    }
+    .connectionIcon-1iZ6F_[alt*="Battle.net"]+div:after{
+    background-color:rgba(5,102,176,.5)
+    }
+    .connectionIcon-1iZ6F_[alt*=Facebook]+div:before{
+    background-color:rgba(24,119,242,.6)
+    }
+    .connectionIcon-1iZ6F_[alt*=Facebook]+div:after{
+    background-color:rgba(24,119,242,.5)
+    }
     .connectionIcon-1iZ6F_[alt*=GitHub]+div:before{
     background-color:rgba(34,34,34,.6)
     }
     .connectionIcon-1iZ6F_[alt*=GitHub]+div:after{
     background-color:rgba(34,34,34,.5)
     }
-    .connectionIcon-1iZ6F_[alt*=Facebook]+div:after,.connectionIcon-1iZ6F_[alt*=Spotify]+div:after,.connectionIcon-1iZ6F_[alt*="Xbox Live"]+div:after{
+    .connectionIcon-1iZ6F_[alt*=Twitch]+div:before{
+    background-color:rgba(145,70,255,.6)
+    }
+    .connectionIcon-1iZ6F_[alt*=Twitch]+div:after{
+    background-color:rgba(145,70,255,.5)
+    }
+    .connectionIcon-1iZ6F_[alt*=YouTube]+div:before{
+    background-color:rgba(255,0,0,.6)
+    }
+    .connectionIcon-1iZ6F_[alt*=YouTube]+div:after{
+    background-color:rgba(255,0,0,.5)
+    }
+    .connectionIcon-1iZ6F_[alt*=Steam]+div:after,.connectionIcon-1iZ6F_[alt*=Twitter]+div:after,.connectionIcon-1iZ6F_[alt*=Spotify]+div:after,.connectionIcon-1iZ6F_[alt*="Xbox Live"]+div:after,.connectionIcon-1iZ6F_[alt*=Facebook]+div:after{
     bottom:-108px
     }
     .connectionAccountLabel-28GEPk{
