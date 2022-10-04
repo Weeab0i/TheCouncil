@@ -4265,7 +4265,7 @@
     }
     .theme-dark .keyboardShortcutsModal-2CRmCm{
     background-color:rgba(0,0,0,.5)
-    }.theme-dark .keybindShortcut-3zF1P9 span{
+    }.theme-dark .keybindShortcut-3zF1P9 .key-N5VmHN{
     background:rgba(0,0,0,0);
     border:1px solid var(--hover-color);
     border-radius:3px;
@@ -6350,7 +6350,7 @@
     .connectionIcon-1iZ6F_+div:after{
     content:"";
     position:absolute;
-    top:72px;
+    top:68px;
     right:0;
     bottom:-64px;
     left:0;
